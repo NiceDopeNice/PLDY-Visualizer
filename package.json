@@ -1,0 +1,25 @@
+{
+  "name": "pldt_visualizer",
+  "version": "1.0.0",
+  "description": "My splendiferous Nuxt.js project",
+  "author": "nicedope",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "jquery": "^3.4.1",
+    "nuxt": "^2.0.0",
+    "rangeslider.js": "^2.3.3",
+    "v-idle": "^0.1.1",
+    "vue-jquery": "^1.0.6",
+    "vue-range-slider": "^0.6.0",
+    "vue-router": "^3.1.6",
+    "vue-router-back-button": "^1.2.3"
+  },
+  "devDependencies": {}
+}
